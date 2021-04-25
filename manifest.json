@@ -1,7 +1,13 @@
 {
     "name": "Hotstar Logo Remover",
     "description": "Remove the 'HOTSTAR' logo on hotstar.com aka Disney+ Hotstar",
-    "version": "0.1",
+    "version": "1.0",
     "author": "RifandyZV",
-    "manifest_version": 2
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["https://www.hotstar.com/id/*"],
+            "css" : ["src/style.css"]
+        }
+    ]
 }
