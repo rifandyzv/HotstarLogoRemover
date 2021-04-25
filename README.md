@@ -14,7 +14,7 @@ Actuallly, we can do this easily using devtools. but if it can be easier so why 
 
 
 # Instalation
-1. Download the release ZIP file and unzip it somewhere.
+1. Download the release [ZIP file](https://github.com/rifandyzv/HotstarWatermarkRemover/archive/refs/heads/master.zip) and unzip it somewhere.
 2. Open [extensions](chrome://extensions) in Chrome.
 3. Turn on Developer mode (usually in the top-right).
 4. Click on "Load Unpacked".
