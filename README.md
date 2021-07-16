@@ -1,4 +1,4 @@
-# Hotstar Watermark Remover
+# Hotstar Watermark Remover.
 A chrome extension to remove watermarks either it's Hotstar or Disney+ logo on hotstar.com (Disney+ Hotstar). The logo is kinda bothering me while watchin some movies/series, so this could help me to get enjoy watching on hotstar.
 
 
@@ -19,5 +19,5 @@ Actuallly, we can do this easily using devtools. but if it can be easier so why 
 3. Turn on Developer mode (usually in the top-right).
 4. Click on "Load Unpacked".
 5. Select the folder that was unzipped.
-6. Open [Disney+ Hotstar](https://www.hotstar.com/) and enjoy watching.
+6. Open [Disney+ Hotstar](https://www.hotstar.com/) and enjoy watching :D.
 
