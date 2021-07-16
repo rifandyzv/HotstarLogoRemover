@@ -19,5 +19,5 @@ Actuallly, we can do this easily using devtools. but if it can be easier so why 
 3. Turn on Developer mode (usually in the top-right).
 4. Click on "Load Unpacked".
 5. Select the folder that was unzipped.
-6. Open [Disney+ Hotstar](https://www.hotstar.com/) and enjoy watching.
+6. Open [Disney+ Hotstar](https://www.hotstar.com/) and enjoy watching :D.
 
